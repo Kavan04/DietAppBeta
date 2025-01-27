@@ -31,8 +31,7 @@ uses ingredients to determine the suitability for the user (veg, non veg, lactos
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-this sample code was pretty easy to implement but the final app will involve using camera and a database to access the ingredients plus
+this sample code was pretty easy to implement but the final app will involve using camera and a database to access the ingredients plus the suggestion feature will need more work. 
 
 ## License
 
