@@ -18,8 +18,16 @@ The following **required** functionality is completed:
 
 I saw the walkthrough and the functionality of two apps shopwell and yuka for the genre that allows people to scan the barcdoes of items adn check if they are healthy,additionally this app allows users to find other substitutes for the same. 
 
-Shopwell - Allows the classfication of a good and bad product by giving it a score in percent
-yuka - uses ingredients to determine the suitability for the user (veg, non veg, lactose intolerant)
+### Shopwell
+- Allows the classfication of a good and bad product by giving it a score in percent.
+- The app has a quick quiz during sign up which makes it more personalized.
+  
+### Yuka
+uses ingredients to determine the suitability for the user (veg, non veg, lactose intolerant)
+
+### ios qr code scanner
+- The Ui of the app is useful especially the zoom in effect it has when it detects the qr
+- the app has a simple UI allowing only the important feature to be highlighted
 
 ## Notes
 
