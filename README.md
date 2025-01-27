@@ -25,7 +25,7 @@ I saw the walkthrough and the functionality of two apps shopwell and yuka for th
 ### Yuka
 uses ingredients to determine the suitability for the user (veg, non veg, lactose intolerant)
 
-### ios qr code scanner
+### IOS QR Code Scanner
 - The Ui of the app is useful especially the zoom in effect it has when it detects the qr
 - the app has a simple UI allowing only the important feature to be highlighted
 
