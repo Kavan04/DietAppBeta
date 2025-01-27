@@ -13,21 +13,18 @@ The following **required** functionality is completed:
 - [ ] Users are see a screen with three labels and a button
 - [ ] Tapping the button changes the screen color to a random color
  
-## Video Walkthrough
-
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
 
 I saw the walkthrough and the functionality of two apps shopwell and yuka for the genre that allows people to scan the barcdoes of items adn check if they are healthy,additionally this app allows users to find other substitutes for the same. 
 
+Shopwell - Allows the classfication of a good and bad product by giving it a score in percent
+yuka - uses ingredients to determine the suitability for the user (veg, non veg, lactose intolerant)
 
 ## Notes
 
 Describe any challenges encountered while building the app.
-this sample code was pretty easy to implement but the final app will involve using camera and a database to access the ingredients 
+this sample code was pretty easy to implement but the final app will involve using camera and a database to access the ingredients plus
 
 ## License
 
